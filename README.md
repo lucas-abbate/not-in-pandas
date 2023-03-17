@@ -1,6 +1,6 @@
 # not-in-pandas
 
- Adds notin method to pandas.Series and pandas.DataFrame objects. Returns exactly the same as negating `isin`.
+ Adds `notin` method to `pandas.Series` and `pandas.DataFrame` objects. Returns exactly the same as negating `isin`.
 
 ## Installation
 
